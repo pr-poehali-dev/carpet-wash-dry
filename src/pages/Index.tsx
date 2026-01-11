@@ -27,7 +27,7 @@ export default function Index() {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-2">
               <Icon name="Sparkles" size={32} className="text-primary" />
-              <h1 className="text-2xl font-bold text-secondary">ЧистоКовёр</h1>
+              <h1 className="text-2xl font-bold text-secondary">GLOSS</h1>
             </div>
             <div className="hidden md:flex items-center gap-6">
               <button onClick={() => scrollToSection('services')} className="hover:text-primary transition-colors">Услуги</button>
@@ -50,7 +50,7 @@ export default function Index() {
       <section className="pt-32 pb-20 px-4 bg-gradient-to-br from-primary/5 to-secondary/5">
         <div className="container mx-auto text-center max-w-4xl">
           <h2 className="text-5xl md:text-6xl font-bold mb-6 text-secondary">
-            Профессиональная стирка ковров
+            GLOSS — Профессиональная стирка ковров
           </h2>
           <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
             Глубокая очистка, быстрая сушка и бережный уход за вашими коврами. Возвращаем первозданную чистоту и свежесть.
@@ -374,13 +374,13 @@ export default function Index() {
         <div className="container mx-auto text-center">
           <div className="flex items-center justify-center gap-2 mb-4">
             <Icon name="Sparkles" size={28} />
-            <h3 className="text-xl font-bold">ЧистоКовёр</h3>
+            <h3 className="text-xl font-bold">GLOSS</h3>
           </div>
           <p className="text-white/80 mb-4">
-            Профессиональная стирка ковров с 2019 года
+            GLOSS — Профессиональная стирка ковров с 2019 года
           </p>
           <p className="text-sm text-white/60">
-            © 2024 ЧистоКовёр. Все права защищены.
+            © 2024 GLOSS. Все права защищены.
           </p>
         </div>
       </footer>
